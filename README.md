@@ -1,6 +1,12 @@
 # Welcome to my Pages
 Here is my page to record PhD student life of mine, and I will share the how to use some softwares and some scripts
 
+### 1 how to use the git command
+$git config --global -l # which is to check the config
+$git config --global user.name '***' # to change the user name
+$git config --global user.email '***@***' # to change the email addr
+
+
 
 ### Markdown
 
