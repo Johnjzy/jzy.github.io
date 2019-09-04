@@ -3,10 +3,8 @@ Here is my page to record PhD student life of mine, and I will share the how to 
 
 ### 1 how to use the git command
 $git config --global -l # which is to check the config
-$git config --global user.name '***' # to change the user name \n
-$git config --global user.email '***@***' # to change the email addr
-
-
+$git config --global user.name 'name' #change the name
+$git config --global user.email 'email addr' # to change the email addr
 
 ### Markdown
 
